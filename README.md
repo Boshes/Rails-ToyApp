@@ -1,2 +1,2 @@
-# Ruby-ToyApp
-Toy App Implementation
+# Rails-ToyApp
+Toy App Implementation trial from railstutorial.org
